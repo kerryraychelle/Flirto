@@ -1,1 +1,1 @@
-# Flirto is an Android Dating I am currently working on
+# Flirto is an Android Dating appI am currently working on
